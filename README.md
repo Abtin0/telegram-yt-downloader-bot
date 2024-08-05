@@ -9,7 +9,7 @@ There are multiple libraries used to make Telegram bots in Python but this bot u
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/telegram-youtube-downloader-bot.git](https://github.com/Abtin0/telegram-yt-downloader-bot.git
+git clone https://github.com/Abtin0/telegram-yt-downloader-bot.git
 
 
 2. Install the required dependencies:
