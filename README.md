@@ -1,10 +1,10 @@
 # Telegram Youtube Downloader Bot
 
-A simple Telegram bot that allows users to download YouTube videos by sending a YouTube link. Built with telebot for Telegram API integration and pytube for video downloading.
+A simple Telegram bot that allows users to download YouTube videos by sending a YouTube link. Built with `telebot` for Telegram API integration and `pytube` for video downloading.
 
 # Explanation
 
-There are multiple libraries used to make Telegram bots in Python but this bot uses the telebot library which is the esiest way to make a Telegram bot.
+There are multiple libraries used to make Telegram bots in Python but this bot uses the `telebot` library which is the esiest way to make a Telegram bot.
 
 ## Installation
 
@@ -13,7 +13,7 @@ git clone https://github.com/Abtin0/telegram-yt-downloader-bot.git
 
 
 2. Install the required dependencies:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Usage
