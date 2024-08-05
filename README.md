@@ -21,7 +21,7 @@ git clone https://github.com/Abtin0/telegram-yt-downloader-bot.git
 1. Create a Telegram bot using the BotFather and obtain the bot token.
 
 
-2. Replace "TELEGRAM_BOT_TOKEN" with your bot's token
+2. Replace 'TELEGRAM_BOT_TOKEN' with your bot's token
 
 
 3. Run the bot:
