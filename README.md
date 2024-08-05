@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 
 3. Run the bot:
-python yt_download_bot.py
+bot.py
 
 
 4. Start chatting with the bot in Telegram!
